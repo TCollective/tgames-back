@@ -1,6 +1,6 @@
 # tgames-back
 
-Want to bring back those flash game's golder era of windows xp, with new learners, providing the oportunity to code with healthy conventions of contributing and stay in community.
+Want to bring back those flash game's golden era of Windows XP, with new learners, providing the opportunity to code with healthy conventions of contributing and staying in the community.
 
 ## Contribution Guideline:
 [CONTRIBUTING.md](CONTRIBUTING.md)
