@@ -1,2 +1,4 @@
 manage.py
 testgame
+__pycache__
+db.sqlite3
