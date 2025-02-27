@@ -11,6 +11,11 @@ dev{<contributor-name}/{game-name}/{fix-issue-number}
 ## URL Conventios:
 Update tgames/urls.py with your game-name.urls.py url patterns
 
+## Just Contributing in HTML,CSS,JS updates:
+Update the templates/{game-name}/{all-the-games.html}
+Update the static/{game-name}/{all-the-css-js}
+Update the media/{game-name}/{all-images-and-icons}
+
 ## API Endpoint:
 update your game-name.urls.py with a path: 
 + api/v{your-api-version}/{request-end-points}
